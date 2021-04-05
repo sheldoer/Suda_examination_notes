@@ -1,0 +1,2 @@
+E:\allcode\c\primer_c_instance\chapter10.18\Debug\chapter10.18.exe
+E:\allcode\c\primer_c_instance\chapter10.18\Debug\chapter10.18.pdb

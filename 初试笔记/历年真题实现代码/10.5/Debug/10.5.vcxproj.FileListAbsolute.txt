@@ -1,0 +1,2 @@
+E:\allcode\c\realqustion\10.5\Debug\10.5.exe
+E:\allcode\c\realqustion\10.5\Debug\10.5.pdb

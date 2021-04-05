@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: eg11.1 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\18295\AppData\Local\Temp\RSPF55A.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/eg11.1.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\allcode\c\primer_c_instance\chapter11.1\eg11.1.c"
+]
+Creating command line "cl.exe @C:\Users\18295\AppData\Local\Temp\RSPF55A.tmp" 
+Creating temporary file "C:\Users\18295\AppData\Local\Temp\RSPF55B.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/eg11.1.pdb" /debug /machine:I386 /out:"Debug/eg11.1.exe" /pdbtype:sept 
+.\Debug\eg11.1.obj
+]
+Creating command line "link.exe @C:\Users\18295\AppData\Local\Temp\RSPF55B.tmp"
+<h3>Output Window</h3>
+Compiling...
+eg11.1.c
+E:\allcode\c\primer_c_instance\chapter11.1\eg11.1.c(26) : error C2143: syntax error : missing ';' before 'type'
+E:\allcode\c\primer_c_instance\chapter11.1\eg11.1.c(27) : error C2065: 'p' : undeclared identifier
+E:\allcode\c\primer_c_instance\chapter11.1\eg11.1.c(27) : error C2100: illegal indirection
+E:\allcode\c\primer_c_instance\chapter11.1\eg11.1.c(27) : warning C4047: 'function' : 'int *' differs in levels of indirection from 'int '
+E:\allcode\c\primer_c_instance\chapter11.1\eg11.1.c(27) : warning C4024: 'test2' : different types for formal and actual parameter 1
+Ö´ÐÐ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+eg11.1.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

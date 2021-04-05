@@ -1,0 +1,2 @@
+E:\allcode\c\king_instance\chapter2.11\x64\Debug\chapter2.11.exe
+E:\allcode\c\king_instance\chapter2.11\x64\Debug\chapter2.11.pdb

@@ -1,0 +1,2 @@
+E:\allcode\c\king_instance\cahpter2.3.1\Debug\cahpter2.3.1.exe
+E:\allcode\c\king_instance\cahpter2.3.1\Debug\cahpter2.3.1.pdb

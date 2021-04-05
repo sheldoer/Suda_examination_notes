@@ -1,0 +1,2 @@
+E:\allcode\c\king_instance\2.3.9\Debug\2.3.9.exe
+E:\allcode\c\king_instance\2.3.9\Debug\2.3.9.pdb

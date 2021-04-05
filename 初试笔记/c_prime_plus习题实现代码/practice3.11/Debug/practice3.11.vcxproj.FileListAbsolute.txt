@@ -1,0 +1,2 @@
+E:\allcode\c\primer_c_instance\practice3.11\Debug\practice3.11.exe
+E:\allcode\c\primer_c_instance\practice3.11\Debug\practice3.11.pdb

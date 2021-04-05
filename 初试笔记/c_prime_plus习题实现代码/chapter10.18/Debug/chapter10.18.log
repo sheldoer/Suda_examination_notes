@@ -1,0 +1,5 @@
+﻿  eg10.18.c
+E:\allcode\c\primer_c_instance\chapter10.18\eg10.18.c(32,71): warning C4048: “int (*)[4]”和“int [2][6]”数组的下标不同
+E:\allcode\c\primer_c_instance\chapter10.18\eg10.18.c(35,55): warning C4048: “int (*)[4]”和“int [3][10]”数组的下标不同
+E:\allcode\c\primer_c_instance\chapter10.18\eg10.18.c(41,35): warning C4028: 形参 3 与声明不同
+  chapter10.18.vcxproj -> E:\allcode\c\primer_c_instance\chapter10.18\Debug\chapter10.18.exe

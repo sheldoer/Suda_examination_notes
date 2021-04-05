@@ -1,0 +1,10 @@
+﻿  practice2.12.c
+E:\allcode\c\primer_c_instance\eg2.0\practice2.12.c(18,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+E:\allcode\c\primer_c_instance\eg2.0\practice2.12.c(18,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+E:\allcode\c\primer_c_instance\eg2.0\practice2.12.c(18,9): message : 缺失的可变参数 1 为格式字符串“%d”所需
+  正在生成代码
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  eg2.0.vcxproj -> E:\allcode\c\primer_c_instance\eg2.0\x64\Release\eg2.0.exe

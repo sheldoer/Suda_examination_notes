@@ -1,0 +1,13 @@
+﻿  eg5.14.c
+E:\allcode\c\primer_c_instance\chapter5.14\eg5.14.c(8,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\allcode\c\primer_c_instance\chapter5.14\eg5.14.c(11,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\allcode\c\primer_c_instance\chapter5.14\eg5.14.c(12,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\allcode\c\primer_c_instance\chapter5.14\eg5.14.c(14,11): warning C4305: “=”: 从“int”到“char”截断
+E:\allcode\c\primer_c_instance\chapter5.14\eg5.14.c(16,12): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+E:\allcode\c\primer_c_instance\chapter5.14\eg5.14.c(21,9): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+  正在生成代码
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  chapter5.14.vcxproj -> E:\allcode\c\primer_c_instance\chapter5.14\x64\Release\chapter5.14.exe

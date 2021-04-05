@@ -1,0 +1,2 @@
+E:\allcode\c\king_instance\4.3.19\Debug\4.3.19.exe
+E:\allcode\c\king_instance\4.3.19\Debug\4.3.19.pdb

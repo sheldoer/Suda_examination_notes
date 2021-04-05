@@ -1,0 +1,2 @@
+E:\allcode\c\primer_c_instance\chapter7.12\Release\chapter7.12.exe
+E:\allcode\c\primer_c_instance\practice7.12\Release\chapter7.12.exe

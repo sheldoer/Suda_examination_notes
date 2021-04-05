@@ -1,0 +1,52 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: chapter10.18 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\18295\AppData\Local\Temp\RSP44ED.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/chapter10.18.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\allcode\c\primer_c_instance\vc\chapter10.18.c"
+]
+Creating command line "cl.exe @C:\Users\18295\AppData\Local\Temp\RSP44ED.tmp" 
+Creating temporary file "C:\Users\18295\AppData\Local\Temp\RSP44EE.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/chapter10.18.pdb" /debug /machine:I386 /out:"Debug/chapter10.18.exe" /pdbtype:sept 
+.\Debug\chapter10.18.obj
+]
+Creating command line "link.exe @C:\Users\18295\AppData\Local\Temp\RSP44EE.tmp"
+<h3>Output Window</h3>
+Compiling...
+chapter10.18.c
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(4) : error C2057: expected constant expression
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(4) : error C2466: cannot allocate an array of constant size 0
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(4) : error C2057: expected constant expression
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(4) : error C2466: cannot allocate an array of constant size 0
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(4) : error C2087: '<Unknown>' : missing subscript
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(22) : error C2057: expected constant expression
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(22) : error C2466: cannot allocate an array of constant size 0
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(22) : error C2057: expected constant expression
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(22) : error C2466: cannot allocate an array of constant size 0
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(22) : error C2087: '<Unknown>' : missing subscript
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(22) : error C2133: 'varr' : unknown size
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(29) : warning C4048: different array subscripts : 'int (*)[1]' and 'int [3][4]'
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(29) : warning C4024: 'sum2d' : different types for formal and actual parameter 3
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(32) : warning C4048: different array subscripts : 'int (*)[1]' and 'int [2][6]'
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(32) : warning C4024: 'sum2d' : different types for formal and actual parameter 3
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(41) : error C2057: expected constant expression
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(41) : error C2466: cannot allocate an array of constant size 0
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(41) : error C2057: expected constant expression
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(41) : error C2466: cannot allocate an array of constant size 0
+E:\allcode\c\primer_c_instance\vc\chapter10.18.c(41) : error C2087: '<Unknown>' : missing subscript
+Ö´ÐÐ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+chapter10.18.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

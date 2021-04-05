@@ -1,0 +1,3 @@
+﻿  homework.c
+E:\allcode\c\primer_c_instance\practice3.11\homework.c(14,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  practice3.11.vcxproj -> E:\allcode\c\primer_c_instance\practice3.11\Debug\practice3.11.exe
