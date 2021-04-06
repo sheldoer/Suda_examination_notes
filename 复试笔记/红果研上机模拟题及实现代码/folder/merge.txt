@@ -1,0 +1,23 @@
+Parsing is an important problem in natural language
+processing which has been studied extensively for
+decades. Between the two basic paradigms of parsing, constituency parsing, the subject of this paper,
+has in general proved to be the more difficult than
+dependency parsing, both in terms of accuracy and
+the run time of parsing algorithms.
+To remedy this, we design a new parsing framework that is more suitable for constituency parsing,
+and that can be accurately modeled by neural networks.
+The parser alternates between two types of actions, structural and label, where the structural actions follow a path to make the stack spans correspond to sentence phrases in a bottom-up manner,
+while the label actions optionally create tree brackets for the top span on the stack. There are only two
+structural actions: shift is the same as other transition systems, while combine merges the top two sentence spans. The latter is analogous to a reduce action, but it does not immediately create a tree structure and is non-directional. Label actions do create
+a partial tree on top of the stack by assigning one or
+more non-terminals to the topmost span.
+For the particular case of our transition constituency parser, we use only four span features to
+determine a structural action, and three to determine
+a label action, in each case partitioning the sentence
+exactly. The reason for this is straightforward: when
+considering a structural action, the top two spans on
+the stack must be considered to determine whether
+they should be combined, while for a label action,
+only the top span on the stack is important, since that
+is the candidate for labeling. In both cases the remaining sentence prefix and suffix are also included.
+These features are shown in Table 1.
